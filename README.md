@@ -10,7 +10,7 @@ Hi there, I'm @markjhollanbricia 👋
 <li>Exploring new technologies and contributing to open-source 
 
 💡 Skills & Technologies:<br>
-<li>Programming Languages:C#, Java, Javascript, PHP, HTML/CSS<br>
+<li>Programming Languages: C#, Java, Javascript, PHP, HTML/CSS<br>
 <li>Frameworks & Libraries: JQuery, Bootstrap
 
 📫 How to reach me:<br>
