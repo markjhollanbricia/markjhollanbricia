@@ -6,7 +6,7 @@ Hi there, I'm @markjhollanbricia 👋
 <li>Mobile App Development
 
 🔭 I’m currently working on:<br>
-<li>Enhancing my skills in java.<br>
+<li>Enhancing my skills.<br>
 <li>Exploring new technologies and contributing to open-source 
 
 💡 Skills & Technologies:<br>
