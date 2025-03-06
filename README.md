@@ -1,22 +1,22 @@
-Hi there, I'm @markjhollanbricia 👋
-👀 I’m interested in:
+Hi there, I'm @markjhollanbricia 👋 
 
-Software Development
-Web Development (Frontend & Backend)
-Mobile App Development
-🔭 I’m currently working on:
-Enhancing my skills in java.
-Exploring new technologies and contributing to open-source
+👀 I’m interested in:<br>
+<li>Software Development<br>
+<li>Web Development (Frontend & Backend)<br>
+<li>Mobile App Development
 
-💡 Skills & Technologies:
+🔭 I’m currently working on:<br>
+<li>Enhancing my skills in java.<br>
+<li>Exploring new technologies and contributing to open-source 
 
-Programming Languages:C#, Java, Javascript, PHP, HTML/CSS
-Frameworks & Libraries: JQuery, Bootstrap
+💡 Skills & Technologies:<br>
+<li>Programming Languages:C#, Java, Javascript, PHP, HTML/CSS<br>
+<li>Frameworks & Libraries: JQuery, Bootstrap
 
-📫 How to reach me:
-
-Email: makmakbricia@gmail.com
+📫 How to reach me:<br>
+Email: makmakbricia@gmail.com<br>
 GitHub: https://github.com/markjhollanbricia
+
 <!--
 **markjhollanbricia/markjhollanbricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
